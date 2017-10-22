@@ -1,0 +1,8 @@
+{
+  "name": "goth-gf",
+  "version": "1.0.0",
+  "description": "A nice goth gf, just for you.",
+  "main": "gothgf.js",
+  "author": "calculusgod",
+  "dependencies": {}
+}
